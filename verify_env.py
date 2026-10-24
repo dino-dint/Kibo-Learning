@@ -12,9 +12,7 @@ def print_system_info():
 
 
 def main():
-  # Change this to your actual team name
   team_name = "DevLab"
-
   print(f"Team Name: {team_name}\n")
   print_system_info()
 
